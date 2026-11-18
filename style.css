@@ -1469,3 +1469,15 @@ body.v7-cover-rest .hero + section{
   .site-header .main-nav{display:none!important}
   .site-header .main-nav.open{display:flex!important}
 }
+
+/* V23: links de contato */
+.site-footer a[href^="tel:"],.site-footer a[href^="mailto:"]{color:inherit;text-decoration:none}.site-footer a[href^="tel:"]:hover,.site-footer a[href^="mailto:"]:hover,.contact-info a:hover{text-decoration:underline}
+
+/* V24: título da seção Atendimento em azul-marinho sobre fundo claro. */
+.contact-layout .contact-copy h2,
+.inner-page .contact-layout .contact-copy h2 {
+  color: #071b33 !important;
+}
+
+/* V25 — descrição da seção Atendimento legível no fundo claro */
+.contact-layout .contact-copy > p { color: #52657b !important; }
