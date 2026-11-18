@@ -43,3 +43,5 @@ mantendo identidade própria, páginas separadas e o loader VJ.
 VRW Motion V1: nova identidade, Legislação, transição vertical entre cenas com elementos horizontais, reveal progressivo e fallback de visibilidade.
 
 V12: aba Todas as Áreas, imagem ilustrativa na página O Escritório e loader B com uma única barra animada.
+
+V26: localização do escritório alterada para Curitiba – PR nos rodapés e na seção Contato.
